@@ -11,8 +11,8 @@ I have created this note with reference from [Amazon Web Services Certified Clou
 [x] 02. **Code & Slides Download (1 min)** <br />
 [x] 03. **What is cloud computing (29 min)** <br />
 [x] 04. **IAM - Identity and Access Management (47 min)** <br />
-[ ] 05. **EC2 - Elastic compute Cloud (1 hr 10 min)** <br />
-[ ] 06. **EC2 - Instance Storage (32 min)** <br />
+[x] 05. **EC2 - Elastic compute Cloud (1 hr 10 min)** <br />
+[x] 06. **EC2 - Instance Storage (32 min)** <br />
 [ ] 07. **ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (34 min)** <br />
 [ ] 08. **S3 (1hr 2 min)** <br />
 [ ] 09. **Databases & Analytics (31 min)** <br />
